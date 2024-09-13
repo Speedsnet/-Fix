@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴍɪsʜ ダ ᴍᴜsɪᴄ 」──
+    ──「 𝐂ᴏᴅᴇʀ ダ ᴋʀɪsʜ  」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://graph.org/file/6e3650ee2318365e2984d.jpg">
 </p>
 
 <p align="center">
